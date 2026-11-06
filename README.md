@@ -30,7 +30,7 @@ I enjoy exploring how systems work, writing useful scripts, and learning how to 
 
 ## Collaboration
 
-I'm open to learning from other developers, contributing to beginner-friendly open-source projects, and collaborating on useful security and automation tools.
+I'm open to learning from other developers, contributing to open-source projects, and collaborating on useful security and automation tools.
 
 **My approach:** stay curious, build consistently, document what I learn, and use technical skills responsibly.
 
